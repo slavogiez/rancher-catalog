@@ -1,6 +1,8 @@
 name: "test"
 version: "v0.0.1"
 category: Auchan Category
+description: plop
+projectURL: https://github.com/rancher/scheduler
 labels:
   io.rancher.certified: Auchan
   io.rancher.orchestration.supported: 'cattle'
