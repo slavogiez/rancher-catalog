@@ -1,0 +1,5 @@
+name: "test"
+version: "v0.0.1"
+category: Auchan Category
+labels:
+  io.rancher.certified: Auchan
