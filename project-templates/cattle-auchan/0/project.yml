@@ -1,8 +1,6 @@
-name: Swarm
-description: Default Swarm template
+name: Cattle (Auchan)
+description: Default Cattle template using Auchan internal images
 stacks:
-  - name: swarm
-    templateId: 'community:infra*swarm'
   - name: network-services
     templateId: 'library:infra*network-services'
   - name: ipsec
