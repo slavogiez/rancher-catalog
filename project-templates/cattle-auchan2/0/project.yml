@@ -1,5 +1,5 @@
-name: Cattle (Auchan)
+name: Cattle 2 (Auchan)
 description: Default Cattle template using Auchan internal images
 stacks:
-  - name: network-services
+  - name: test-stack
     templateId: 'library:infra*test'
